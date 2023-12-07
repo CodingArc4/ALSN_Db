@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALSN_Db", "ALSN_Db\ALSN_Db.csproj", "{F7F7E82B-B494-4B7C-8782-47896383876D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F7E82B-B494-4B7C-8782-47896383876D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F7E82B-B494-4B7C-8782-47896383876D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F7E82B-B494-4B7C-8782-47896383876D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F7E82B-B494-4B7C-8782-47896383876D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83F64A21-EDA6-40C2-A322-BF3C4139E04F}
+	EndGlobalSection
+EndGlobal
