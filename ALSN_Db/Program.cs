@@ -1,5 +1,5 @@
 
-using ALSN_Db.Data;
+using ALSN.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace ALSN_Db
